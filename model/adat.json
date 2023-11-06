@@ -1,6 +1,11 @@
 {
     "nevek":[
         {
+            "vnev":"Vezetéknév",
+            "knev": "Keresztnév",
+            "szul":"Születési dátum"
+        },
+        {
             "vnev":"Sonka",
             "knev": "Dániel",
             "szul":"1969-01-22"
